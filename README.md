@@ -1,5 +1,7 @@
 ### Hi, I'm Inderjit Singh 👋
 
+I'm an Mobile Application Developer with 6+ years of iOS development experience for Apple Devices (iPad & iPhone).
+
 - 🔭 I’m currently working on Portfolio
 - 🌱 I’m currently learning React js
 
