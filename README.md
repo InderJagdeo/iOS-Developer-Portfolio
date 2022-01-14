@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm Inderjit Singh 👋
+
+- 🔭 I’m currently working on Portfolio
+- 🌱 I’m currently learning React js
+
 
 <!--
 **InderJagdeo/InderJagdeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
