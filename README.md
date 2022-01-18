@@ -2,8 +2,8 @@
 
 ![Mobile](./Assets/icons/smartphone.png) Self thought iOS developer with 7 years of experience in designing, coding, and publishing mobile applications for Apple Devices (iPhone & iPad).
 
-- 🔭 I’m currently working on Portfolio
-- 🌱 I’m currently learning React js
+- 🔭 Currently working on Portfolio
+- 🌱 Currently learning React js
 - - 💬 Ask me about Swift
 - - 📫 How to reach me: Twitter - @_InderJagdeo
 
