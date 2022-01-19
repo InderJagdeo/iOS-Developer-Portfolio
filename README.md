@@ -4,7 +4,7 @@
 
 - 🔭 Currently working on Portfolio
 - 🌱 Currently learning React js
-- 💬 Ask me about Swift
+- 💬 Ask me about Swift, iOS Development
 - 📫 How to reach me: Twitter - @_InderJagdeo
 
 
