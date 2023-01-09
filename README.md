@@ -3,7 +3,7 @@
 ![Mobile](./Assets/icons/smartphone.png) Self taught iOS developer with years of experience in designing, coding, and publishing mobile applications for Apple Devices (iPhone & iPad).
 
 - 🔭 Currently working on Portfolio
-- 🌱 Currently learning React js
+- 🌱 Currently learning Flutter & React Native
 - 💬 Ask me about Swift, iOS Development
 - 📫 How to reach me: Twitter - @_InderJagdeo
 
