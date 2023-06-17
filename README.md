@@ -5,7 +5,7 @@
 - 🔭 Currently working on Portfolio
 - 🌱 Currently learning Flutter & React Native
 - 💬 Ask me about Swift, iOS Development
-- 📫 How to reach me: Twitter - @_InderJagdeo
+- 📫 How to reach me on Twitter: - @_InderJagdeo
 
 
 <!--
