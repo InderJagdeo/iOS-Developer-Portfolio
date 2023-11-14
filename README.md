@@ -1,6 +1,4 @@
 ### Hi, I'm Inderjit Singh 👋
-![Mobile](./Assets/image/profile.png)
-
 ![Mobile](./Assets/icons/smartphone.png) Self taught iOS developer with years of experience in designing, coding, and publishing mobile applications for Apple Devices (iPhone & iPad).
 
 
