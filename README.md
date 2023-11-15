@@ -1,11 +1,9 @@
-### Hi, I'm Inderjit Singh 👋
 
 ![Mobile](./Assets/image/profile.svg)
 
-![Mobile](./Assets/icons/smartphone.png) Self taught iOS developer with years of experience in designing, coding, and publishing mobile applications for Apple Devices (iPhone & iPad).
+### Self taught iOS developer with years of experience in designing, coding, and publishing mobile applications for Apple Devices (iPhone & iPad).
 
 
-- 🌱 Currently learning Flutter & React Native
 - 💬 Ask me about Swift, iOS Development
 - 📫 How to reach me on Twitter: - @_InderJagdeo
 
