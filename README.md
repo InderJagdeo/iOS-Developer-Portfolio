@@ -1,7 +1,7 @@
 
 ![Mobile](./Assets/image/profile.svg)
 
-# Self taught iOS developer with years of experience in designing, coding, and publishing mobile applications for Apple Devices (iPhone & iPad).
+#### Self taught iOS developer with years of experience in designing, coding, and publishing mobile applications for Apple Devices (iPhone & iPad).
 
 
 - 💬 Ask me about Swift, iOS Development
