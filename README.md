@@ -3,7 +3,7 @@
 
 ## 🚀 About Me
 
-#### Self taught iOS developer with years of experience in designing, coding, and publishing mobile applications for Apple Devices (iPhone & iPad).
+#### 👋 Hi, I'm self taught iOS developer with years of experience in designing, coding, and publishing mobile applications for Apple Devices (iPhone & iPad).
 
 # Projects
 
