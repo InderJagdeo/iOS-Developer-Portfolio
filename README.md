@@ -12,6 +12,8 @@ Novagems is a scheduling & workforce management system for security guard compan
 
 It’s a Smart Automation System for Employee Scheduling, Time & Attendance, Clock In/Clock Out, Team Chat, GPS Tracking, Tasks & Post Orders, Reports, Dashboard Analytics, and more.
 
+![Mobile](./Assets/image/novagems.svg)
+
 #### Tech Used:
 
 - UIKit
