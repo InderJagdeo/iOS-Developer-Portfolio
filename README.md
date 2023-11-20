@@ -5,8 +5,6 @@
 
 # Projects
 
-----
-
 
 
 - 💬 Ask me about Swift, iOS Development
