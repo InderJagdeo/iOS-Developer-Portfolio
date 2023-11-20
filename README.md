@@ -27,10 +27,6 @@ It’s a Smart Automation System for Employee Scheduling, Time & Attendance, Clo
 
 - Geofencing with Core Location
 
- 
-
-- 💬 Ask me about Swift, iOS Development
-- 📫 How to reach me on Twitter: - @_InderJagdeo
 
 
 <!--
