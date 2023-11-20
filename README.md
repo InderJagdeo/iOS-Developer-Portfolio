@@ -1,6 +1,8 @@
 
 ![Mobile](./Assets/image/profile.svg)
 
+## 🚀 About Me
+
 #### Self taught iOS developer with years of experience in designing, coding, and publishing mobile applications for Apple Devices (iPhone & iPad).
 
 # Projects
