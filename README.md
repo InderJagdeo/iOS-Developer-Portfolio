@@ -5,6 +5,21 @@
 
 # Projects
 
+## Novagems
+
+Novagems is a scheduling & workforce management system for security guard companies where a single manager can manage the multiple guards at one time from anywhere. 
+
+It’s a Smart Automation System for Employee Scheduling, Time & Attendance, Clock In/Clock Out, Team Chat, GPS Tracking, Tasks & Post Orders, Reports, Dashboard Analytics, and more.
+
+Tech Used:
+
+. UIKit
+. Swift
+. Core Data
+. Gps tracking
+. Alamofire for RESTApi
+. Geofencing with Core Location
+
 
 
 - 💬 Ask me about Swift, iOS Development
