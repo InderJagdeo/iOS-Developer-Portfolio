@@ -14,7 +14,7 @@ It’s a Smart Automation System for Employee Scheduling, Time & Attendance, Clo
 
 ![Mobile](./Assets/image/novagems.svg)
 
-#### Tech Used:
+**Tech Used**:
 
 - UIKit
 - Swift
