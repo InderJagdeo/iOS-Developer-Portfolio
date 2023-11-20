@@ -6,7 +6,6 @@
 #### 👋 Hi, I'm self taught iOS developer with years of experience in designing, coding, and publishing mobile applications for Apple Devices (iPhone & iPad).
 
 # Projects
-
 ## Novagems
 
 Novagems is a scheduling & workforce management system for security guard companies where a single manager can manage the multiple guards at one time from anywhere. 
@@ -16,17 +15,11 @@ It’s a Smart Automation System for Employee Scheduling, Time & Attendance, Clo
 #### Tech Used:
 
 - UIKit
-
 - Swift
-
 - Core Data
-
 - Gps tracking
-
 - Alamofire for RESTApi
-
 - Geofencing with Core Location
-
 
 
 <!--
