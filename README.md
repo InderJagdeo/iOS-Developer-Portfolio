@@ -23,8 +23,6 @@ It’s a Smart Automation System for Employee Scheduling, Time & Attendance, Clo
 - Alamofire for RESTApi
 - Geofencing with Core Location
 
-![Mobile](./Assets/icons/app_store.jpg)(https://apps.apple.com/in/app/novagems-managerapp/id1439312263)
-
 
 <!--
 **InderJagdeo/InderJagdeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
