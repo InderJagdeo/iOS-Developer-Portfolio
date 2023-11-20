@@ -3,7 +3,7 @@
 
 #### Self taught iOS developer with years of experience in designing, coding, and publishing mobile applications for Apple Devices (iPhone & iPad).
 
-#Projects in pink
+- #Projects in pink
 
 - 💬 Ask me about Swift, iOS Development
 - 📫 How to reach me on Twitter: - @_InderJagdeo
