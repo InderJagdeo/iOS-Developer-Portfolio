@@ -25,9 +25,7 @@ Tech Used:
 
 - Geofencing with Core Location
 
-
-
-- - 
+ 
 
 - 💬 Ask me about Swift, iOS Development
 - 📫 How to reach me on Twitter: - @_InderJagdeo
