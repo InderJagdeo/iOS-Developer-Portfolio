@@ -13,12 +13,12 @@ It’s a Smart Automation System for Employee Scheduling, Time & Attendance, Clo
 
 Tech Used:
 
-. UIKit
-. Swift
-. Core Data
-. Gps tracking
-. Alamofire for RESTApi
-. Geofencing with Core Location
+.* UIKit
+.* Swift
+.* Core Data
+.* Gps tracking
+.* Alamofire for RESTApi
+.* Geofencing with Core Location
 
 
 
