@@ -7,7 +7,7 @@
 
 # Projects
 
-## Novagems
+## ![Mobile](./Assets/icons/novagems.png) Novagems
 
 Novagems is a scheduling & workforce management system for security guard companies where a single manager can manage the multiple guards at one time from anywhere. 
 
