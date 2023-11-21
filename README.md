@@ -25,7 +25,9 @@ It’s a Smart Automation System for Employee Scheduling, Time & Attendance, Clo
 
 ## Golf Lounge 18
 
-Golf Lounge 18 app is a NEW resource for an enhanced guest experience. The app is designed to simplify bookings, tracks tee times, pushes notifications for promotions and ultimately rewards you for playing MORE!
+Golf Lounge 18 app is a new resource for an enhanced guest experience. The app is designed to simplify bookings, tracks tee times, pushes notifications for promotions and ultimately rewards you for playing MORE!
+
+Golf Lounge 18 is a Leader in building Technology based Indoor Golf spaces where you can enjoy golf with friends and family all year round.
 
 ![Mobile](./Assets/image/golflounge.svg)
 
