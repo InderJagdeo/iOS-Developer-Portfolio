@@ -27,7 +27,7 @@ It’s a Smart Automation System for Employee Scheduling, Time & Attendance, Clo
 
 Golf Lounge 18 app is a NEW resource for an enhanced guest experience. The app is designed to simplify bookings, tracks tee times, pushes notifications for promotions and ultimately rewards you for playing MORE!
 
-![Mobile](./Assets/image/golflounge.svg.svg)
+![Mobile](./Assets/image/golflounge.svg)
 
 **Tech Used:**
 
