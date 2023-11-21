@@ -14,7 +14,7 @@ It’s a Smart Automation System for Employee Scheduling, Time & Attendance, Clo
 
 ![Mobile](./Assets/image/novagems.svg)
 
-**Tech Used**:
+**Tech Used:**
 
 - UIKit
 - Swift
@@ -23,6 +23,17 @@ It’s a Smart Automation System for Employee Scheduling, Time & Attendance, Clo
 - Alamofire for RESTApi
 - Geofencing with Core Location
 
+## Golf Lounge 18
+
+Golf Lounge 18 app is a NEW resource for an enhanced guest experience. The app is designed to simplify bookings, tracks tee times, pushes notifications for promotions and ultimately rewards you for playing MORE!
+
+![Mobile](./Assets/image/golflounge.svg.svg)
+
+**Tech Used:**
+
+- Java Script
+- React Native
+- Redux & Redux Saga
 
 <!--
 **InderJagdeo/InderJagdeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
