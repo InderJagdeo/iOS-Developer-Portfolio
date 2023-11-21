@@ -5,7 +5,7 @@
 
 #### 👋 Hi, I'm self taught iOS developer with years of experience in designing, coding, and publishing mobile applications for Apple Devices (iPhone & iPad).
 
-## Projects
+# Projects
 ## Novagems
 
 Novagems is a scheduling & workforce management system for security guard companies where a single manager can manage the multiple guards at one time from anywhere. 
