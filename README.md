@@ -26,7 +26,6 @@ It’s a Smart Automation System for Employee Scheduling, Time & Attendance, Clo
 - Firebase for Analytics, Crashlytics, and Remote Notifications
 
 
-[![Mobile](./Assets//icons/app-store.png)] (https://apps.apple.com/in/app/novagems-managerapp/id1439312263)
 
 ## Golf Lounge 18
 
@@ -42,6 +41,8 @@ It is a Leader in building Technology based Indoor Golf spaces where you can enj
 - React Native
 - Redux & Redux Saga
 - Firebase for Analytics, Crashlytics, and Remote Notifications
+
+
 
 ## KYC Quiz
 
