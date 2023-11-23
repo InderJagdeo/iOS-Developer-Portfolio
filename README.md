@@ -25,7 +25,7 @@ It’s a Smart Automation System for Employee Scheduling, Time & Attendance, Clo
 - Geofencing with Core Location
 - Firebase for Analytics, Crashlytics, and Remote Notifications
 
-[![Mobile](./Assets/icons/app-store.png)](https://apps.apple.com/in/app/novagems-managerapp/id1439312263)
+
 
 ## Golf Lounge 18
 
