@@ -44,7 +44,11 @@ It is a Leader in building Technology based Indoor Golf spaces where you can enj
 - Redux & Redux Saga
 - Firebase for Analytics, Crashlytics, and Remote Notifications
 
-
+<a href="https://apps.apple.com/in/app/novagems-managerapp/id1439312263"> 
+    <img src="Assets/icons/app-store.png" width="44" height="44">
+</a>&nbsp;&nbsp;<a href="https://play.google.com/store/apps/details?id=com.golflounge18.app&hl=en_US"> 
+    <img src="Assets/icons/play-store.png" width="44" height="44">
+</a>
 
 ## KYC Quiz
 
@@ -67,6 +71,10 @@ KYC Quiz is an intelligent, colorful and entertaining KYC quiz game where you ca
 - Lottie for Charts
 - Alamofire for RESTApi
 - Firebase for Analytics, Crashlytics, and Remote Notifications
+
+<a href="https://apps.apple.com/in/app/kyc-quiz/id1573034417"> 
+    <img src="Assets/icons/app-store.png" width="44" height="44">
+</a>
 
 <!--
 **InderJagdeo/InderJagdeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
