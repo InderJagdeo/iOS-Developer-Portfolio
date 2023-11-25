@@ -45,8 +45,8 @@ It is a Leader in building Technology based Indoor Golf spaces where you can enj
 - Firebase for Analytics, Crashlytics, and Remote Notifications
 
 <a href="https://apps.apple.com/in/app/novagems-managerapp/id1439312263"> 
-    <img src="Assets/icons/app-store.png" width="44" height="44">
-</a>&nbsp;&nbsp;<a href="https://play.google.com/store/apps/details?id=com.golflounge18.app&hl=en_US"> 
+    <img src="Assets/icons/app-store.png" width="44" height="44"></a>&nbsp;&nbsp;
+<a href="https://play.google.com/store/apps/details?id=com.golflounge18.app&hl=en_US"> 
     <img src="Assets/icons/play-store.png" width="44" height="44">
 </a>
 
