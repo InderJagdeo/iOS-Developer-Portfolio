@@ -68,7 +68,7 @@ KYC Quiz is an intelligent, colorful and entertaining KYC quiz game where you ca
 - Swift
 - WebKit
 - Charts
-- Lottie for Charts
+- Lottie for Animations
 - Alamofire for RESTApi
 - Firebase for Analytics, Crashlytics, and Remote Notifications
 
