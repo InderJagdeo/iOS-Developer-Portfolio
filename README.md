@@ -10,13 +10,13 @@ In my repository, you will find a variety of projects that demonstrate my skills
 Feel free to explore my projects, provide feedback, and connect with me for any potential collaborations or freelance opportunities.&nbsp;
 
 <a href="https://www.linkedin.com/in/inderjagdeo">
-    <img src="Assets/icons/linkedin.png"></a>&nbsp;&nbsp;
+    <img src="Assets/icons/linkedin.png" width="34" height="34"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/inder.jagdeo">
-    <img src="Assets/icons/instagram.png"></a>&nbsp;&nbsp;
+    <img src="Assets/icons/instagram.png" width="34" height="34"></a>&nbsp;&nbsp;
 <a href="https://x.com/_InderJagdeo">
-    <img src="Assets/icons/twitter.png"></a>&nbsp;&nbsp;
+    <img src="Assets/icons/twitter.png" width="34" height="34"></a>&nbsp;&nbsp;
 <a href="https://stackoverflow.com/users/7665968/inder-jagdeo">
-    <img src="Assets/icons/stackoverflow.png"></a>
+    <img src="Assets/icons/stackoverflow.png" width="34" height="34"></a>
 
 # Projects
 ## Novagems
@@ -39,7 +39,7 @@ It’s a Smart Automation System for Employee Scheduling, Time & Attendance, Clo
 - Firebase for Analytics, Crashlytics, and Remote Notifications
 
 <a href="https://apps.apple.com/in/app/novagems-managerapp/id1439312263"> 
-    <img src="Assets/icons/appstore.png">
+    <img src="Assets/icons/appstore.png" width="44" height="44">
 </a>
 
 ## Golf Lounge 18
@@ -58,9 +58,9 @@ It is a Leader in building Technology based Indoor Golf spaces where you can enj
 - Firebase for Analytics, Crashlytics, and Remote Notifications
 
 <a href="https://apps.apple.com/us/app/golf-lounge-18/id1520389788"> 
-    <img src="Assets/icons/appstore.png"></a>&nbsp;&nbsp;
+    <img src="Assets/icons/appstore.png"  width="44" height="44"></a>&nbsp;&nbsp;
 <a href="https://play.google.com/store/apps/details?id=com.golflounge18.app&hl=en_US"> 
-    <img src="Assets/icons/playstore.png">
+    <img src="Assets/icons/playstore.png"  width="44" height="44">
 </a>
 
 ## KYC Quiz
@@ -86,7 +86,7 @@ KYC Quiz is an intelligent, colorful and entertaining KYC quiz game where you ca
 - Firebase for Analytics, Crashlytics, and Remote Notifications
 
 <a href="https://apps.apple.com/in/app/kyc-quiz/id1573034417"> 
-    <img src="Assets/icons/appstore.png">
+    <img src="Assets/icons/appstore.png" width="44" height="44">
 </a>
 
 <!--
