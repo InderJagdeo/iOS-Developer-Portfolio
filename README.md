@@ -10,13 +10,13 @@ In my repository, you will find a variety of projects that demonstrate my skills
 Feel free to explore my projects, provide feedback, and connect with me for any potential collaborations or freelance opportunities.&nbsp;
 
 <a href="https://www.linkedin.com/in/inderjagdeo">
-    <img src="Assets/icons/linkedin.png" width="34" height="34"></a>&nbsp;&nbsp;
+    <img src="Assets/icons/linkedin.png" width="40" height="40"></a>&nbsp;
 <a href="https://www.instagram.com/inder.jagdeo">
-    <img src="Assets/icons/instagram.png" width="34" height="34"></a>&nbsp;&nbsp;
+    <img src="Assets/icons/instagram.png" width="34" height="34"></a>&nbsp;
 <a href="https://x.com/_InderJagdeo">
-    <img src="Assets/icons/twitter.png" width="34" height="34"></a>&nbsp;&nbsp;
+    <img src="Assets/icons/twitter.png" width="30" height="30"></a>&nbsp;
 <a href="https://stackoverflow.com/users/7665968/inder-jagdeo">
-    <img src="Assets/icons/stackoverflow.png" width="34" height="34"></a>
+    <img src="Assets/icons/stackoverflow.png" width="40" height="36"></a>
 
 # Projects
 ## Novagems
