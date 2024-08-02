@@ -39,7 +39,7 @@ It’s a Smart Automation System for Employee Scheduling, Time & Attendance, Clo
 - Firebase for Analytics, Crashlytics, and Remote Notifications
 
 <a href="https://apps.apple.com/in/app/novagems-managerapp/id1439312263"> 
-    <img src="Assets/icons/appstore.png" width="44" height="44">
+    <img src="Assets/icons/apple.png">
 </a>
 
 ## Golf Lounge 18
@@ -58,9 +58,9 @@ It is a Leader in building Technology based Indoor Golf spaces where you can enj
 - Firebase for Analytics, Crashlytics, and Remote Notifications
 
 <a href="https://apps.apple.com/us/app/golf-lounge-18/id1520389788"> 
-    <img src="Assets/icons/appstore.png"  width="44" height="44"></a>&nbsp;&nbsp;
+    <img src="Assets/icons/apple.png"></a>&nbsp;&nbsp;
 <a href="https://play.google.com/store/apps/details?id=com.golflounge18.app&hl=en_US"> 
-    <img src="Assets/icons/playstore.png"  width="44" height="44">
+    <img src="Assets/icons/android.png">
 </a>
 
 ## KYC Quiz
@@ -86,7 +86,7 @@ KYC Quiz is an intelligent, colorful and entertaining KYC quiz game where you ca
 - Firebase for Analytics, Crashlytics, and Remote Notifications
 
 <a href="https://apps.apple.com/in/app/kyc-quiz/id1573034417"> 
-    <img src="Assets/icons/appstore.png" width="44" height="44">
+    <img src="Assets/icons/apple.png">
 </a>
 
 <!--
