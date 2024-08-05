@@ -15,8 +15,6 @@ Feel free to explore my projects, provide feedback, and connect with me for any 
     <img src="Assets/icons/instagram.png" width="34" height="34"></a>&nbsp;
 <a href="https://x.com/_InderJagdeo">
     <img src="Assets/icons/twitter.png" width="30" height="30"></a>&nbsp;
-<a href="https://stackoverflow.com/users/7665968/inder-jagdeo">
-    <img src="Assets/icons/stackoverflow.png" width="40" height="36"></a>
 
 # Projects
 ## Novagems
