@@ -87,6 +87,22 @@ KYC Quiz is an intelligent, colorful and entertaining KYC quiz game where you ca
     <img src="Assets/icons/apple.png" width="40" height="40">
 </a>
 
+## Quotes App
+
+This project is a showcase of my learning journey with SwiftUI, the Combine framework, and MVVM architecture. Developed as an example application, it aims to demonstrate the power and simplicity of SwiftUI in building modern iOS applications.
+
+### Features
+- **Random Quote**: Get inspired with a randomly selected quote.
+- **List of Quotes**: Browse through a comprehensive list of quotes and view detailed information for each one.
+- **List of Authors**: Explore a list of authors and dive into details about their lives and works.
+
+
+![Mobile](./Assets/image/quotes.svg)
+
+<a href="https://github.com/InderJagdeo/QuotesAppSwiftUI"> 
+    <img src="Assets/icons/github.png" width="40" height="40">
+</a>
+
 <!--
 **InderJagdeo/InderJagdeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
