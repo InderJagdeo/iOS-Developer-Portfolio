@@ -104,6 +104,9 @@ KYC Quiz is an intelligent, colorful and entertaining KYC quiz game where you ca
     <img src="Assets/icons/apple.png" width="40" height="40">
 </a>
 
+## Let's Connect 👋
+
+Thank you for taking the time to explore my work. I’m always open to new opportunities and collaboration ideas, so feel free to reach out! This portfolio showcases my commitment to delivering quality iOS applications, and I look forward to connecting with you to discuss how I can contribute to your next project.
 
 <!--
 **InderJagdeo/InderJagdeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
