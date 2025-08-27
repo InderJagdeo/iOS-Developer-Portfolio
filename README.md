@@ -30,6 +30,12 @@ This project is a showcase of my learning journey with SwiftUI, the Combine fram
 
 ![Mobile](./Assets/image/quotes.svg)
 
+**Tech Stack:**
+
+- Swift & SwiftUI for UI and logic
+- Combine for reactive programming
+- MVVM Architecture
+
 <a href="https://github.com/InderJagdeo/QuotesAppSwiftUI"> 
     <img src="Assets/icons/github.png" width="40" height="40">
 </a>
@@ -42,7 +48,7 @@ It’s a Smart Automation System for Employee Scheduling, Time & Attendance, Clo
 
 ![Mobile](./Assets/image/novagems.svg)
 
-**Tech Used:**
+**Tech Stack:**
 
 - UIKit
 - Swift
@@ -65,7 +71,7 @@ It is a Leader in building Technology based Indoor Golf spaces where you can enj
 
 ![Mobile](./Assets/image/golflounge.svg)
 
-**Tech Used:**
+**Tech Stack:**
 
 - Java Script
 - React Native
@@ -90,7 +96,7 @@ KYC Quiz is an intelligent, colorful and entertaining KYC quiz game where you ca
 
 ![Mobile](./Assets/image/kycquiz.svg)
 
-**Tech Used:**
+**Tech Stack:**
 
 - UIKit
 - Swift
