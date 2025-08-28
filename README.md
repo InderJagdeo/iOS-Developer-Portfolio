@@ -26,6 +26,7 @@ This project showcases my learning journey with SwiftUI, the Combine framework, 
 - **Random Quote**: Get inspired with a randomly selected quote.
 - **List of Quotes**: Browse through a comprehensive list of quotes and view detailed information for each one.
 - **List of Authors**: Explore a list of authors and dive into details about their lives and works.
+- **Share Quotes**: Easily share your favorite quotes with others.
 
 
 ![Mobile](./Assets/image/quotes.svg)
