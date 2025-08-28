@@ -20,7 +20,7 @@ Feel free to explore my projects, provide feedback, and connect with me for any 
 
 ## Quotes App
 
-This project is a showcase of my learning journey with SwiftUI, the Combine framework, and MVVM architecture. Developed as an example application, it aims to demonstrate the power and simplicity of SwiftUI in building modern iOS applications.
+This project showcases my learning journey with SwiftUI, the Combine framework, and MVVM architecture. It is developed as an example application that presents random quotes, a collection of quotes, and a list of authors. The goal is to demonstrate the power and simplicity of SwiftUI in building modern iOS applications.
 
 ### Features
 - **Random Quote**: Get inspired with a randomly selected quote.
