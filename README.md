@@ -1,5 +1,5 @@
 
-![Mobile](./Assets/gif/profile.png)
+![Mobile](./Assets/gif/profile.gif)
 
 ## About Me
 
