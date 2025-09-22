@@ -1,5 +1,11 @@
-
-![Mobile](./Assets/gif/profile.gif)
+<div align="center">
+  <img src="Assets/icons/emoji.png" width="250" height="250"></a>&nbsp;
+  <h3>👋 Hi, I'm Inder</h2>
+  <h4>💻 Senior iOS Developer (Swift | SwiftUI | Flutter | React Native)</h4>
+  <h4>Welcome to my GitHub Portfolio</h4>
+</div>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<!-- ![Mobile](./Assets/gif/profile.gif) -->
 
 ## About Me
 
